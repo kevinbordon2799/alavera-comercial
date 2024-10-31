@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="60.10005px" height="64.2504px" viewBox="0 0 60.10005 64.2504" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M36.8889 8.20072L60.1001 15.8489L41.2323 32.2504L36.8889 8.20072Z" id="path_1" />
+    <clipPath id="clip_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Group">
+    <path d="M0 15.2504L13 15.2504L13 28.2504L0 28.2504L0 15.2504Z" id="Rectangle" fill="#FF9900" fill-rule="evenodd" stroke="none" />
+    <g id="Triangle">
+      <use stroke="none" fill="#D3D3D3" fill-opacity="0" xlink:href="#path_1" fill-rule="evenodd" />
+      <g clip-path="url(#clip_1)">
+        <use xlink:href="#path_1" fill="none" stroke="#0066FF" stroke-width="8" />
+      </g>
+    </g>
+    <path d="M4.99999 55.7504C4.99999 51.056 8.80557 47.2504 13.5 47.2504C18.1944 47.2504 22 51.056 22 55.7504C22 60.4448 18.1944 64.2504 13.5 64.2504C8.80557 64.2504 4.99999 60.4448 4.99999 55.7504Z" id="Oval" fill="#FF0080" fill-rule="evenodd" stroke="none" />
+  </g>
+</svg>
